@@ -73,6 +73,31 @@
     background-color: #e7ddcf;
 }
 
+.buttons1{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+    margin-left: 3%;
+}
+
+.buttons2{
+    display:flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+
+.savebut{
+    background:#D9827C;
+    padding: 30px;
+    margin: 15px;
+    border:none;
+    border-radius: 10px;
+    flex-shrink: 1;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    margin-top: 25px;
+}
 
 
 
